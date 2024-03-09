@@ -113,7 +113,3 @@ def load_dict(save_path: str) -> dict:
     with open(save_path, 'rb') as fp:
         return pickle.load(fp)
 
-person = {"name": "Jessa", "country": "USA", "telephone": 1178}
-save_dict(person, "models", "person.pkl")
-
-person2 = load_dict("models/person.pkl")
