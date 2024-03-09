@@ -7,3 +7,5 @@ Other files contain helper modules:
 > `data_setup.py` - defines the functions helping to load the data into a PyTorch model
 > `training_functions.py` - functions used in training of the models
 > `utils.py` - utility functions
+
+The `models` folder contains information about the pre-trained models. 
