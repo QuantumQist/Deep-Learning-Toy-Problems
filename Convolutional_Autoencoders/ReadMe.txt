@@ -7,3 +7,5 @@ The supporting files are
 * `engine.py` contains the training functionalities
 * `model_classes.py` contains the classes with neural network architectures
 * `utils.py` contains the utility functions
+* folder `trained_models` contains the parameters of pre-trained nueral networks
+* folder `model_result_dictionaries` contains the dictionaries with loss curve information for pre-trained models
